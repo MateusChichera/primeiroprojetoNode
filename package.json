@@ -1,0 +1,11 @@
+{
+  "name": "primeiroprojetonode",
+  "version": "1.0.0",
+  "description": "primeiro projeto node da disciplina de Programação para internet ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateus Chichera",
+  "license": "ISC"
+}
